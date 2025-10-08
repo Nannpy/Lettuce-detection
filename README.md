@@ -1,1 +1,1 @@
-# Lettuce-detection-
+# Lettuce-detection
